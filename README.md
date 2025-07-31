@@ -11,3 +11,9 @@ And you can reset the game by pressing the 'Spacebar' at anytime.
 
 
 ...the console tracks the points and winner. Text is hard in OpenGL.
+
+Also if you download or copy the raw '3D_Pong.py' script, make sure you also: 
+
+1. Download the '3D Pong.png' (Pygame's Icon Image)
+2. Install Python 3.10+
+3. Type 'pip install pygame-ce PyOpenGL PyOpenGL_accelerate' into your console or IDE's terminal where the file is kept
